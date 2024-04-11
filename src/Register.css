@@ -1,0 +1,86 @@
+#vboxathletic {
+    -fx-background-color: rgba(13, 59, 13, 0.9);
+}
+
+#vboxpersonal {
+    -fx-background-color: rgba(13, 59, 13, 0.9);
+}
+
+#vboxhealth {
+    -fx-background-color: rgba(13, 59, 13, 0.9);
+}
+
+#anchorpane {
+    -fx-background-color: #FF0000;
+}
+
+#borderpane {
+    -fx-background-image: url("schoolsketch.jpg");
+    -fx-background-position: center center;
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: cover;
+}
+
+#fnamelabel {
+    -fx-text-fill: #FF0000;
+}
+
+#mnamelabel {
+    -fx-text-fill: #FF0000;
+}
+
+#lnamelabel {
+    -fx-text-fill: #FF0000;
+}
+
+#agelabel {
+    -fx-text-fill: #FF0000;
+}
+
+#sexlabel {
+    -fx-text-fill: #FF0000;
+}
+
+#nationlabel {
+    -fx-text-fill: #FF0000;
+}
+
+#religionlabel {
+    -fx-text-fill: #FF0000;
+}
+
+#hlabel {
+    -fx-text-fill: #FF0000;
+}
+
+#streetlabel {
+    -fx-text-fill: #FF0000;
+}
+
+#citylabel {
+    -fx-text-fill: #FF0000;
+}
+
+#provlabel {
+    -fx-text-fill: #FF0000;
+}
+
+#numlabel {
+    -fx-text-fill: #FF0000;
+}
+
+#emaillabel {
+    -fx-text-fill: #FF0000;
+}
+
+#explabel {
+    -fx-text-fill: #FF0000;
+}
+
+#sportlabel {
+    -fx-text-fill: #FF0000;
+}
+
+#condlabel {
+    -fx-text-fill: #FF0000;
+}
